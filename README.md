@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel (@delindstrom)
 - 👀 I’m interested in developing my skill web design and app development.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning frontend dev with HMTL, JavaScript and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 I can be reached through https://danlindstrom.carrd.co/
 
